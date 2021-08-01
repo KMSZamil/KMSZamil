@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zamil</h1>
-<h3 align="center">Having considerable knowledge of the development of web applications and scripts using PHP programming language and MySQL & SQL Server databases</h3>
+<h3 align="center">Having considerable knowledge of the development of web applications and scripts using PHP programming language and MySQL & SQL Server database</h3>
 
 - 🌱 I’m currently learning **Laravel, ReactJs and lots more**
 
