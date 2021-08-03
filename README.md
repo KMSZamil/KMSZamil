@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kazi shawkat zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi shawkat zamil" height="30" width="40" /></a>
+<a href="https://fb.com/kazishawkat.zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi shawkat zamil" height="30" width="40" /></a>
 <a href="https://instagram.com/kazi_shawkat_zamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kazi_shawkat_zamil" height="30" width="40" /></a>
 </p>
 
