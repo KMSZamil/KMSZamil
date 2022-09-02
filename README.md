@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zamil</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh. Having considerable knowledge of the development of web applications and scripts using PHP programming language and MySQL & SQL Server database</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmszamil&label=Profile%20views&color=0e75b6&style=flat" alt="kmszamil" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmszamil" alt="kmszamil" /></a> </p>
 
 - 🔭 I’m currently working on **different types of Inventory, E-commerce, HRM, Dashboard Project**
