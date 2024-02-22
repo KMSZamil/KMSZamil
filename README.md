@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **kmszamil@gmail.com**
 
-- 📄 Know about my experiences [Drive Link](https://github.com/user/repo/blob/branch/other_file.md)
+- 📄 Know about my experiences `<Drive Link>` : <https://github.com>
 
 - ⚡ Fun fact **Want to do a lot of things which I try to capture from my mind 🙆 **
 
