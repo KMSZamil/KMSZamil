@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **kmszamil@gmail.com**
 
-- 📄 Know about my experiences [Drive Link]([[https://drive.google.com/file/d/1fmWUV4N6Cd967VA17hbAWCakX7ENwV8V/view?usp=sharing](https://drive.google.com/file/d/16TYmB59ekqVmem0gUZ9Mtsb6CrksAHFW/view?usp=drive_link)]([https://drive.google.com/file/d/16TYmB59ekqVmem0gUZ9Mtsb6CrksAHFW/view?usp=sharing](https://drive.google.com/file/d/16TYmB59ekqVmem0gUZ9Mtsb6CrksAHFW/view?usp=drive_link)))
+- 📄 Know about my experiences [Drive Link](https://github.com/user/repo/blob/branch/other_file.md))
 
 - ⚡ Fun fact **Want to do a lot of things which I try to capture from my mind 🙆 **
 
