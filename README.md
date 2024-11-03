@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **ReactJs, NextJs, Redux, advanced level of web development**
 
-- 👨‍💻 All of my projects are available at [Resume Link](https://github.com/KMSZamil)
+- 👨‍💻 Share my github profile from the link at [Profile Link](https://github.com/KMSZamil)
 
 - 📝 My website link [Website Link](https://kmszamil.github.io)
 
-- 💬 Ask me about **Web development**
-
 - 📫 Reach me at **kmszamil@gmail.com**
 
-- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/16TYmB59ekqVmem0gUZ9Mtsb6CrksAHFW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/16TYmB59ekqVmem0gUZ9Mtsb6CrksAHFW/view?usp=drive_link)
+
+- 💬 Ask me about **Web development**
 
 - ⚡ Fun fact **Want to do a lot of things which I try to capture from my mind 🙆 **
 
