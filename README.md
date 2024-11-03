@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Resume Link](https://github.com/KMSZamil)
 
-- 📝 I occasionally write articles on [Blog Link](blog.fzrtechnology.com)
+- 📝 My website link [Website Link](https://kmszamil.github.io)
 
 - 💬 Ask me about **Web development**
 
